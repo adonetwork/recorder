@@ -1,0 +1,17 @@
+{
+ "version": "2.0.0",
+ "tasks": [
+     {
+         "label": "Packaging",
+         "type": "shell",
+         "command": "mvn -B clean package",
+         "group": "build" 
+     },
+     {
+        "label": "Run",
+        "type": "shell",
+        "command": "mvn clean javafx:run",
+        "group": "build" 
+    }
+ ]
+}
