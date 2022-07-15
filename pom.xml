@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.adonetwork</groupId>
 	<artifactId>recorder</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>recorder</name>
 	<description>Outil de génération de listes de lecture (Musique)</description>
 	<properties>
