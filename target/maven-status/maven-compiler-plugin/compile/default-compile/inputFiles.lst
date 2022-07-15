@@ -1,0 +1,15 @@
+/Users/adonorio/Developpement/recorder/src/main/java/com/adonetwork/recorder/application/views/ControllerConfiguration.java
+/Users/adonorio/Developpement/recorder/src/main/java/com/adonetwork/recorder/usescases/adapter/FileGenerateServiceAdapter.java
+/Users/adonorio/Developpement/recorder/src/main/java/com/adonetwork/recorder/usescases/api/FileGenerateService.java
+/Users/adonorio/Developpement/recorder/src/main/java/com/adonetwork/recorder/infrastructure/adapter/PlayingListAdapter.java
+/Users/adonorio/Developpement/recorder/src/main/java/com/adonetwork/recorder/application/RecorderApplication.java
+/Users/adonorio/Developpement/recorder/src/main/java/com/adonetwork/recorder/application/controllers/RecorderController.java
+/Users/adonorio/Developpement/recorder/src/main/java/com/adonetwork/recorder/application/AbstractJavaFxApplicationSupport.java
+/Users/adonorio/Developpement/recorder/src/main/java/com/adonetwork/recorder/application/views/ViewHolder.java
+/Users/adonorio/Developpement/recorder/src/main/java/com/adonetwork/recorder/domain/ports/PlayingListPort.java
+/Users/adonorio/Developpement/recorder/src/main/java/com/adonetwork/recorder/application/RecorderConfiguration.java
+/Users/adonorio/Developpement/recorder/src/main/java/com/adonetwork/recorder/application/dto/PlayingListDTO.java
+/Users/adonorio/Developpement/recorder/src/main/java/com/adonetwork/recorder/domain/model/PlayingList.java
+/Users/adonorio/Developpement/recorder/src/main/java/com/adonetwork/recorder/application/RecorderMessagesConfiguration.java
+/Users/adonorio/Developpement/recorder/src/main/java/com/adonetwork/recorder/application/controllers/MainController.java
+/Users/adonorio/Developpement/recorder/src/main/java/com/adonetwork/recorder/domain/model/FileGenerateException.java
