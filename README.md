@@ -11,3 +11,4 @@
 Ajout des fichiers de logs 
 Réinitialiser le label du status une fois généré
 Saisir le nom du fichier de lecture 
+Trier les fichiers avant génération

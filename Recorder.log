@@ -181,3 +181,97 @@
 2022-juil.-21 18:14:10.721 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:72 - Nom du répertoire de lecture Berger Gall Tour
 2022-juil.-21 18:14:10.721 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:81 - Fichier de lecture sélectionné /Volumes/PLUTON/Musique/Sidify Music Converter/FormatConverter/Berger Gall Tour.m3u
 2022-juil.-21 18:14:15.435 INFO  [JavaFX Application Thread] c.a.r.a.c.MainController:96 - Main : Clic sur le bouton de fermeture de l'application
+2022-juil.-21 19:13:29.561 INFO  [JavaFX-Launcher] o.s.b.SpringApplication:55 - Starting application using Java 17.0.1 on JUPITER.local with PID 39027 (started by adonorio in /Users/adonorio/Developpement/recorder)
+2022-juil.-21 19:13:29.563 INFO  [JavaFX-Launcher] o.s.b.SpringApplication:634 - No active profile set, falling back to 1 default profile: "default"
+2022-juil.-21 19:13:29.769 INFO  [JavaFX-Launcher] c.a.r.a.v.ControllerConfiguration:33 - Chargement de l'interface principale de l'application
+2022-juil.-21 19:13:29.916 INFO  [JavaFX-Launcher] c.a.r.a.v.ControllerConfiguration:44 - Chargement de la vue d'enregistrement de la liste de lecture
+2022-juil.-21 19:13:29.938 INFO  [JavaFX-Launcher] c.a.r.a.c.MainController:88 - MainView : Initialisation de l'interface
+2022-juil.-21 19:13:29.940 INFO  [JavaFX-Launcher] c.a.r.a.c.RecorderController:90 - RecorderView : Initialisation de l'interface
+2022-juil.-21 19:13:29.966 INFO  [JavaFX-Launcher] o.s.b.SpringApplication:61 - Started application in 0.72 seconds (JVM running for 1.074)
+2022-juil.-21 19:13:31.758 INFO  [JavaFX Application Thread] c.a.r.a.c.RecorderController:113 - RecorderView : Sélection du répertoire musical
+2022-juil.-21 19:13:39.185 INFO  [JavaFX Application Thread] c.a.r.a.c.RecorderController:120 - RecorderView : Répertoire sélectionné /Volumes/PLUTON/Musique/Sidify Music Converter/FormatConverter/Alain Souchon
+2022-juil.-21 19:13:40.104 INFO  [JavaFX Application Thread] c.a.r.a.c.RecorderController:153 - RecorderView : Lancement de la génération du fichier musical
+2022-juil.-21 19:13:40.105 INFO  [JavaFX Application Thread] c.a.r.u.a.FileGenerateServiceAdapter:42 - USES-CASES : Génération du fichier contenant la liste de lecture
+2022-juil.-21 19:13:40.105 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:47 - INFRASTRUCTURE : Chargement du contenu d'un répertoire
+2022-juil.-21 19:13:40.106 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 17 Sous les jupes des filles.mp3
+2022-juil.-21 19:13:40.106 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 07 Et si en plus y'a personne.mp3
+2022-juil.-21 19:13:40.107 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 18 Le rêve du pecheur - Live.mp3
+2022-juil.-21 19:13:40.108 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 12 Quand j'étais chanteur.mp3
+2022-juil.-21 19:13:40.108 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 10 Quand j'serai KO.mp3
+2022-juil.-21 19:13:40.108 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 13 Ballade de Jim.mp3
+2022-juil.-21 19:13:40.108 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 19 La vie ne vaut rien.mp3
+2022-juil.-21 19:13:40.108 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 08 Le baiser.mp3
+2022-juil.-21 19:13:40.108 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 06 Ultra moderne solitude.mp3
+2022-juil.-21 19:13:40.108 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 16 Somerset Maugham.mp3
+2022-juil.-21 19:13:40.108 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 14 Bidon.mp3
+2022-juil.-21 19:13:40.108 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 03 Jamais content.mp3
+2022-juil.-21 19:13:40.108 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 11 C'est déjà ça.mp3
+2022-juil.-21 19:13:40.108 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 04 Les regrets.mp3
+2022-juil.-21 19:13:40.108 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 09 Presque.mp3
+2022-juil.-21 19:13:40.108 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 15 L'amour à la machine.mp3
+2022-juil.-21 19:13:40.108 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 02 Foule sentimentale.mp3
+2022-juil.-21 19:13:40.109 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 01 Âme fifties.mp3
+2022-juil.-21 19:13:40.109 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 06 Allô maman bobo.mp3
+2022-juil.-21 19:13:40.109 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 05 Y'a d'la rumba dans l'air.mp3
+2022-juil.-21 19:13:40.109 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:71 - INFRASTRUCTURE : Génération du fichier de lecture
+2022-juil.-21 19:13:40.109 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:74 - Nom du répertoire de lecture Alain Souchon
+2022-juil.-21 19:13:40.109 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:83 - Fichier de lecture sélectionné /Volumes/PLUTON/Musique/Sidify Music Converter/FormatConverter/Alain Souchon.m3u
+2022-juil.-21 19:14:02.280 INFO  [JavaFX Application Thread] c.a.r.a.c.RecorderController:113 - RecorderView : Sélection du répertoire musical
+2022-juil.-21 19:14:09.712 INFO  [JavaFX Application Thread] c.a.r.a.c.RecorderController:120 - RecorderView : Répertoire sélectionné /Volumes/PLUTON/Musique/Sidify Music Converter/FormatConverter/Groove Party
+2022-juil.-21 19:14:10.730 INFO  [JavaFX Application Thread] c.a.r.a.c.RecorderController:153 - RecorderView : Lancement de la génération du fichier musical
+2022-juil.-21 19:14:10.730 INFO  [JavaFX Application Thread] c.a.r.u.a.FileGenerateServiceAdapter:42 - USES-CASES : Génération du fichier contenant la liste de lecture
+2022-juil.-21 19:14:10.730 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:47 - INFRASTRUCTURE : Chargement du contenu d'un répertoire
+2022-juil.-21 19:14:10.731 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 01 Ain't No Mountain High Enough.mp3
+2022-juil.-21 19:14:10.731 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 20 September.mp3
+2022-juil.-21 19:14:10.731 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 06 Isn't She Lovely.mp3
+2022-juil.-21 19:14:10.731 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 07 Part-Time Lover.mp3
+2022-juil.-21 19:14:10.731 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 08 Don't Stop 'Til You Get Enough.mp3
+2022-juil.-21 19:14:10.731 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 09 Get Down On It - Single Version.mp3
+2022-juil.-21 19:14:10.731 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 10 Leave The Door Open.mp3
+2022-juil.-21 19:14:10.732 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 23 Levitating (feat. DaBaby).mp3
+2022-juil.-21 19:14:10.732 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 12 Give Me the Night.mp3
+2022-juil.-21 19:14:10.732 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 02 Watermelon Sugar.mp3
+2022-juil.-21 19:14:10.732 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 03 Adore You.mp3
+2022-juil.-21 19:14:10.732 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 13 I Want You Back.mp3
+2022-juil.-21 19:14:10.732 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 15 Can't Get Enough Of Your Love, Babe.mp3
+2022-juil.-21 19:14:10.733 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 17 I'm Coming Out.mp3
+2022-juil.-21 19:14:10.733 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 04 All Night Long (All Night) - Single Version.mp3
+2022-juil.-21 19:14:10.733 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 18 I'm Every Woman.mp3
+2022-juil.-21 19:14:10.733 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 19 We Are Family - 1995 Remaster.mp3
+2022-juil.-21 19:14:10.733 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 05 Boogie Wonderland.mp3
+2022-juil.-21 19:14:10.733 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 21 P.Y.T. (Pretty Young Thing).mp3
+2022-juil.-21 19:14:10.733 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 22 Rock with You - Single Version.mp3
+2022-juil.-21 19:14:10.734 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 11 For Your Love - Special 12_ Disco Mix.mp3
+2022-juil.-21 19:14:10.734 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 24 Good Times - 2018 Remaster.mp3
+2022-juil.-21 19:14:10.734 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 14 Signed, Sealed, Delivered (I'm Yours).mp3
+2022-juil.-21 19:14:10.734 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 16 I Can't Help Myself (Sugar Pie, Honey Bunch).mp3
+2022-juil.-21 19:14:10.735 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:71 - INFRASTRUCTURE : Génération du fichier de lecture
+2022-juil.-21 19:14:10.735 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:74 - Nom du répertoire de lecture Groove Party
+2022-juil.-21 19:14:10.735 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:83 - Fichier de lecture sélectionné /Volumes/PLUTON/Musique/Sidify Music Converter/FormatConverter/Groove Party.m3u
+2022-juil.-21 19:14:48.842 INFO  [JavaFX Application Thread] c.a.r.a.c.RecorderController:113 - RecorderView : Sélection du répertoire musical
+2022-juil.-21 19:14:59.589 INFO  [JavaFX Application Thread] c.a.r.a.c.RecorderController:120 - RecorderView : Répertoire sélectionné /Volumes/PLUTON/Musique/Sidify Music Converter/FormatConverter/Veronique Sanson
+2022-juil.-21 19:15:00.403 INFO  [JavaFX Application Thread] c.a.r.a.c.RecorderController:153 - RecorderView : Lancement de la génération du fichier musical
+2022-juil.-21 19:15:00.403 INFO  [JavaFX Application Thread] c.a.r.u.a.FileGenerateServiceAdapter:42 - USES-CASES : Génération du fichier contenant la liste de lecture
+2022-juil.-21 19:15:00.404 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:47 - INFRASTRUCTURE : Chargement du contenu d'un répertoire
+2022-juil.-21 19:15:00.404 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 16 Allah.mp3
+2022-juil.-21 19:15:00.404 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 09 Comme je l'imagine.mp3
+2022-juil.-21 19:15:00.404 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 07 Ma révérence.mp3
+2022-juil.-21 19:15:00.404 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 14 Ma révérence.mp3
+2022-juil.-21 19:15:00.404 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 18 Quelques mots d'amour.mp3
+2022-juil.-21 19:15:00.404 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 11 Mi-maître, mi-esclave.mp3
+2022-juil.-21 19:15:00.404 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 04 Vancouver.mp3
+2022-juil.-21 19:15:00.404 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 02 Et je l'appelle encore.mp3
+2022-juil.-21 19:15:00.404 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 03 Pour me comprendre.mp3
+2022-juil.-21 19:15:00.404 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 06 Besoin de personne.mp3
+2022-juil.-21 19:15:00.404 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 10 Le temps est assassin.mp3
+2022-juil.-21 19:15:00.404 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 12 Une nuit sur son épaule.mp3
+2022-juil.-21 19:15:00.404 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 15 Toute une vie sans te voir.mp3
+2022-juil.-21 19:15:00.404 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 13 Bahia.mp3
+2022-juil.-21 19:15:00.405 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 08 Chanson sur ma drôle de vie.mp3
+2022-juil.-21 19:15:00.405 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 05 Le paradis blanc.mp3
+2022-juil.-21 19:15:00.405 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 01 Amoureuse.mp3
+2022-juil.-21 19:15:00.405 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:54 - Fichier trouvé dans le répertoire : 17 Seras-tu là ?.mp3
+2022-juil.-21 19:15:00.405 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:71 - INFRASTRUCTURE : Génération du fichier de lecture
+2022-juil.-21 19:15:00.405 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:74 - Nom du répertoire de lecture Veronique Sanson
+2022-juil.-21 19:15:00.405 INFO  [JavaFX Application Thread] c.a.r.i.a.PlayingListAdapter:83 - Fichier de lecture sélectionné /Volumes/PLUTON/Musique/Sidify Music Converter/FormatConverter/Veronique Sanson.m3u
+2022-juil.-21 19:15:12.217 INFO  [JavaFX Application Thread] c.a.r.a.c.MainController:96 - Main : Clic sur le bouton de fermeture de l'application

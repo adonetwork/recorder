@@ -7,6 +7,7 @@ import java.nio.file.DirectoryStream;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 
@@ -55,6 +56,7 @@ public class PlayingListAdapter implements PlayingListPort{
             }   
             
             // Mise à jour de l'objet
+            Collections.sort(files);
             maListe.setMusicFiles(files);
         }
         catch (Exception e) {
