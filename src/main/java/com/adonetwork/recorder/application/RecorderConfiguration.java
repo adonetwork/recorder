@@ -31,4 +31,7 @@ public class RecorderConfiguration {
     // Nom du fichier de lecture
     private String defaultNameFile;
 
+    // Nom de l'extension du fichier de lecture
+    private String extensionNameFile;
+
 }

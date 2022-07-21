@@ -68,11 +68,17 @@ public class PlayingListAdapter implements PlayingListPort{
     public PlayingList createMusicFile(PlayingList maListe) throws FileGenerateException {
         log.info(LAYER + " : Génération du fichier de lecture");
 
-        String fileName = maListe.getMusicFolder().getParent() + "/" + recorderConfiguration.getDefaultNameFile();
-        log.info("Fichier de lecture sélectionné " + fileName);
-
         String directoryName = maListe.getMusicFolder().getFileName().toString();
         log.info("Nom du répertoire de lecture " + directoryName);
+
+        String fileName = null;
+        if (directoryName != null && !directoryName.equals("")) {
+            fileName = maListe.getMusicFolder().getParent() + "/" + directoryName + "." + recorderConfiguration.getExtensionNameFile();
+        }
+        else {
+            fileName = maListe.getMusicFolder().getParent() + "/" + recorderConfiguration.getDefaultNameFile();
+        }
+        log.info("Fichier de lecture sélectionné " + fileName);
 
         FileOutputStream fos = null;
 
