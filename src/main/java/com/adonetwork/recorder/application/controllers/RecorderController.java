@@ -122,6 +122,9 @@ public class RecorderController {
 
                     // Activation du bouton de génération
                     RecorderController.this.btn_generate.setDisable(false);
+
+                    // Réinitialisation du status
+                    RecorderController.this.lbl_status.setText("");
                 }
            }   
          });
